@@ -1,4 +1,5 @@
 # 🩺 Diabetes Prediction App
+🚀 **Live App:** [Click Here to View](https://your-streamlit-link.streamlit.app)
 
 A **Streamlit web application** that predicts whether a person is likely to have **diabetes** based on their medical data, using a **Machine Learning (XGBoost)** model.
 
